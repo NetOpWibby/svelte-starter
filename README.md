@@ -17,7 +17,7 @@ cd svelte-starter && npm i
 
 ## Description
 
-I optimized this project to only target modern browsers and to be as pleasant as possible to work with.
+I optimized this project to target only modern browsers and to be as pleasant as possible to work with.
 
 ## Features
 
